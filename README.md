@@ -9,4 +9,4 @@
 * HTML
 * CSS
 
-* [Ссылка на проект]([https://cra7yy.github.io/mesto-react/](https://anton23al.github.io/age.kalculator/))
+* [Ссылка на проект]([https://anton23al.github.io/age.kalculator/])
